@@ -1,5 +1,6 @@
 # InstaBox
 A PHP Instagram Panel Software
 
-# Auto Installer for Ubuntu
-Soon.
+# How to Setup? (Nasıl Kurulur?)
+~ ilk önce config.php dosyasını notepad.exe ile editliyoruz.
+~ first of all we need to edit the config.php file using notepad.exe
