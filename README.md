@@ -25,3 +25,7 @@ define('DB_PASSWORD', 'db_passwordXXX');
 
 
 define('DB_NAME', 'InstaBox');
+
+# Hosting Advice
+
+<img src="https://d29hzik3xqzv4r.cloudfront.net/original/1X/4f2a2eab4cb769acadaac86ca0756383aaed139b.png">
