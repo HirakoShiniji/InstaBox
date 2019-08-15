@@ -28,4 +28,4 @@ define('DB_NAME', 'InstaBox');
 
 # Hosting Advice
 
-<img src="https://d29hzik3xqzv4r.cloudfront.net/original/1X/4f2a2eab4cb769acadaac86ca0756383aaed139b.png">
+<img style="height=20pt; width=400pt;"  src="https://d29hzik3xqzv4r.cloudfront.net/original/1X/4f2a2eab4cb769acadaac86ca0756383aaed139b.png">
